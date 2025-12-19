@@ -4,10 +4,10 @@ import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import Link from "next/link"
 
 const navItems = [
   { name: "About", href: "#about" },
+  { name: "Experience", href: "#experience" },
   { name: "Projects", href: "#projects" },
   { name: "Certificates", href: "#certificates" },
   { name: "Contact", href: "#contact" },
