@@ -41,7 +41,7 @@ export default function Footer() {
           transition={{ duration: 0.5 }}
           className="text-center mb-16"
         >
-          <span className="text-primary font-mono text-sm">04. Contact</span>
+          <span className="text-primary font-mono text-sm">05. Contact</span>
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mt-4 mb-6">Get In Touch</h2>
           <p className="text-muted-foreground max-w-lg mx-auto mb-8 leading-relaxed">
             Jika Anda Tertarik Dengan Portofolio Dan CV saya Hubungi Saya Melalui Berikut:
